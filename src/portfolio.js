@@ -2,16 +2,16 @@
 
 // Website related settings
 const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
+  isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
 const seo = {
-  title: "Harshitha Reddy's Portfolio",
+  title: "Sai Harshitha's Portfolio",
   description:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
-    title: "Harshitha Reddy Portfolio",
+    title: "Sai Harshitha Portfolio",
     type: "website",
     url: "http://harshithareddy.com/",
   },
@@ -19,9 +19,9 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Harshitha Reddy",
-  logo_name: "Harshitha Reddy",
-  nickname: "ReddyForTech",
+  title: "Sai Harshitha",
+  logo_name: "Sai Harshitha",
+  nickname: "ReadyForTech",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
@@ -265,6 +265,30 @@ const degrees = {
         "⚡ I am currently conducting research across several departments while simultaneously developing projects that enhance my skills and contribute to my practical experience.",
       ],
       website_link: "https://www.mrec.ac.in/",
+    },
+    {
+      title: "Alphores Junior College",
+      subtitle: "Intermediate Education",
+      logo_path: "ALP_Logo.jpg",
+      alt_name: "MRUH Hyderabad",
+      duration: "2021 - 2023",
+      descriptions: [
+        "⚡ I did my Intermediate by taking MPC stream in Alphores Junior College and did research in Engineering stream.  ",
+        "⚡ Apart from this, I have done courses on IIT, JEE Mains and prepared for various Examinations.",
+     ],
+      website_link: "https://alphorescollege.com/",
+    },
+    {
+      title: "Telangana State Model School",
+      subtitle: "Secondary Education",
+      logo_path: "TMS_logo.jpg",
+      alt_name: "TMS SDPT",
+      duration: "2016 - 2021",
+      descriptions: [
+        "⚡ I did my schooling in Telangana State Model School, as I did expand my horizions to take on various research activities, enhnace my soft skills and interpersonal skills.  ",
+        "⚡ Apart from this, I have keen interest in computers, tech, books and various extra curicular activities .",
+     ],
+      website_link: "https://admissionforms.in/ts-model-school-inter-admission/",
     },
   ],
 };

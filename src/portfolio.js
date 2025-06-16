@@ -264,7 +264,7 @@ const degrees = {
         "⚡ Apart from this, I have done courses on Artificial Intelligence, Java Programming, Cloud Computing and Full Stack Development.",
         "⚡ I am currently conducting research across several departments while simultaneously developing projects that enhance my skills and contribute to my practical experience.",
       ],
-      website_link: "https://www.mallareddyuniversity.ac.in/",
+      website_link: "https://www.mrec.ac.in/",
     },
   ],
 };
